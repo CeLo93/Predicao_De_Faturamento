@@ -1,0 +1,14 @@
+Pessoal,
+
+A Udemy fez algumas alterações em suas políticas de privacidade e de dadps onde não consigo mais 
+incluir arquivos .cvs sem ser "encodada" na base64, ou seja, não está mais aceitando upload de arquivos 
+que nós brasileiros utilizamos como padrão.
+
+Sendo assim, por favor, utilizem este link abaixo para fazer o download.
+
+https://drive.google.com/file/d/1MYJl0yLcRJJJSGPrtb8kA6UDxfbD_2id/view?usp=sharing
+
+Por favor, não abram de forma alguma o arquivo no Google Sheets pois ele mudará toda a formatação e talvez possa
+causar problemas na hora do sistema abrir o arquivo.
+
+Qualquer coisa me mandem mensagem que eu os envio via email!!!

@@ -22,7 +22,7 @@ https://github.com/CeLo93/Previsao_De_Faturamento/assets/92175791/4c537054-5063-
 
  </div> 
   
-## Previsão de Faturamento :chart_with_upwards_trend:
+## Predição de Faturamento :chart_with_upwards_trend:
 
 Este é um projeto de previsão de faturamento que utiliza técnicas de Machine Learning para predizer o valor de faturamento para o próximo mês, com base em uma base histórica de dados. O software possui uma interface gráfica desenvolvida em Qt for Python (PyQt5) para facilitar a interação do usuário e permitir a escolha da metodologia de previsão desejada. :computer:
 

@@ -11,11 +11,16 @@
 
 <div align="center">
 
-:camera: <b> IMAGEM 01: Tabela dos valores, sendo aplicada a opção de Regressão Linear (baseada no notebook anexo) </b> :camera: 
+https://github.com/CeLo93/Previsao_De_Faturamento/assets/92175791/4c537054-5063-4d4f-b66e-213934a15c62
 
  </div> 
 
 
+<div align="center">
+
+:camera: <b> VIDEO 01: Execução do software, carregando a base de dados de exemplo (baseada no notebook anexo) </b> :camera: 
+
+ </div> 
   
 ## Previsão de Faturamento :chart_with_upwards_trend:
 
@@ -35,6 +40,8 @@ O front end desenvolvido em Qt for Python permite que o usuário escolha a metod
 6. :watch: **Séries Temporais:** O modelo utilizará técnicas de séries temporais para realizar a previsão.
 
 ### Como Utilizar :point_down:
+
+Para a visualização, basta clicar no executável, dentro da pasta "dist", e aguardar a abertura do software. Depois carregue a base de dados "df" de exemplo, ou crie uma própria respeitando os parâmetros das colunas.
 
 1. :package: Instale as dependências necessárias, como PyQt5 e outras bibliotecas Python relevantes.
 2. :file_folder: Abra o executável "sistema.py" localizado na pasta "QT_faturamento" para iniciar a interface gráfica.
